@@ -10,7 +10,6 @@ while getopts ":e" option; do
          echo "-e is specified" 
          brew install gcc
          brew vendor-install ruby
-         exit;;
    esac
 done
 echo You may have reboot to start using brew properly
