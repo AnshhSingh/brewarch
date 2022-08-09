@@ -4,7 +4,7 @@ simple bash script for installing and setting up home brew automatically in arch
 Open a terminal
 
 ```
-gitclone https://github.com/AnshhSingh/brewarch.git
+git clone https://github.com/AnshhSingh/brewarch.git
 ```
 
 ```
