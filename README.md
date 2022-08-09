@@ -13,10 +13,13 @@ cd brewarch
 
 ```
 chmod +x brewarch.sh
+or
 ```
 
 ```
-./brewarch.sh
+./brewarch.sh -e #installs with gcc and ruby(recommended)
+or
+./brewarch.sh #install and setup homebrew only
 ```
 
 Complete the setup prompt and homebrew will be ready to use after reboot
