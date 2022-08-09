@@ -6,7 +6,7 @@ brew doctor
 brew config
 while getopts ":e" option; do
    case $option in
-      e) # display Help
+      e) 
          echo "-e is specified" 
          brew install gcc
          brew vendor-install ruby
