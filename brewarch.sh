@@ -7,7 +7,7 @@ brew config
 while getopts ":e" option; do
    case $option in
       e) # display Help
-         echo -e is specified 
+         echo "-e is specified" 
          brew install gcc
          brew vendor-install ruby
          exit;;
