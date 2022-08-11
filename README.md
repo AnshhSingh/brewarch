@@ -13,7 +13,6 @@ cd brewarch
 
 ```
 chmod +x brewarch.sh
-or
 ```
 
 ```
