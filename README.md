@@ -16,7 +16,7 @@ chmod +x brewarch.sh
 ```
 
 ```
-./brewarch.sh -e #installs with gcc and ruby(recommended)
+./brewarch.sh -e #install with gcc and ruby(recommended)
 or
 ./brewarch.sh #install and setup homebrew only
 ```
